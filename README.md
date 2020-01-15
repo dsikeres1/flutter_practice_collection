@@ -11,7 +11,7 @@
  
 --
  
-###Required
+###`Required`
  
 1. **/practice** 이하에 서브 프로젝트를 생성한다.
 2. `pubspec.yaml` - **dependencies**에 경로 반드시 추가!!
@@ -25,5 +25,5 @@
         - `macos` flutter config --enable-macos-desktop
         - `windows` flutter config --enable-windows-desktop
         - `web` flutter config --enable-web
-        - `기타(Linux)` flutter config --enable-linus-desktop
+        - `기타(Linux)` flutter config --enable-linux-desktop
     3. **config 설정 이후에는 반드시 사용 중인 editor를 재시작 해준다.**
